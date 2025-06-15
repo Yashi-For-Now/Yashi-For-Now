@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **UX projects, or basically anything. Just want to be out there.**
 
-- 🤝 I’m looking for help with **open spurce contributions.**
+- 🤝 I’m looking for help with **open source contributions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashi-For-Now](https://github.com/Yashi-For-Now)
 
