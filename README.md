@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashi-for-now" alt="yashi-for-now" /></a> </p>
 
-- 🔭 I’m currently working on [RAG-CHATBOT-WEBAPP](A chatbot that answers questions from your own uploaded documents)[https://github.com/Yashi-For-Now/RAG-CHATBOT](https://github.com/Yashi-For-Now/RAG-CHATBOT)
+- 🔭 I’m currently working on <a href="https://github.com/Yashi-For-Now/RAG-CHATBOT">RAG-CHATBOT-WEBAPP</a>(A chatbot that answers questions from your own uploaded documents)
 
 - 🌱 I’m currently learning **Prompt Engineering, RAG, LLMS, AI Agents, Machine Learning.**
 
