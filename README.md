@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashi-for-now" alt="yashi-for-now" /></a> </p>
 
-- 🔭 I’m currently working on [SayHello(A one on one video conferencing project)](https://github.com/Yashi-For-Now/GMC)
+- 🔭 I’m currently working on [RAG-CHATBOT-WEBAPP](A chatbot that answers questions from your own uploaded documents)[https://github.com/Yashi-For-Now/RAG-CHATBOT](https://github.com/Yashi-For-Now/RAG-CHATBOT)
 
-- 🌱 I’m currently learning **Typescript, Next.js, Three.js, Machine Learning.**
+- 🌱 I’m currently learning **Prompt Engineering, RAG, LLMS, AI Agents, Machine Learning.**
 
-- 👯 I’m looking to collaborate on **UX projects, or basically anything. Just want to be out there.**
+- 👯 I’m looking to collaborate on **UX projects, or AI Based projects, basically anything. Just want to be out there.**
 
 - 🤝 I’m looking for help with **open source contributions.**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://github.com/Yashi-For-Now](https://github.com/Yashi-For-Now)
 
-- 💬 Ask me about **Javascript, HTML, CSS, React, Data Analysis, Novels, Songs and Musicals.**
+- 💬 Talk to me about **Current Technologies in the IT sector, Novels, Songs and Musicals.**
 
 - 📫 How to reach me **s.yashashwani0.02@gmail.com**
 
