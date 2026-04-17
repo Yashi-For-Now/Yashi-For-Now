@@ -1,4 +1,4 @@
-<h1 align="center">Hi Beautiful Human🌻🪄, I'm Yashashwani Singh</h1>
+<h1 align="center">Hey Beautiful Human🌻🪄, I'm Yashashwani Singh</h1>
 <h3 align="center">An enthusiastic Software Developer, with keen interest in Frontend Development and enhancing UX. I enjoy reading about and learning new technologies. Very fascinated and intrigued by the field of Data Science and always trying to explore it more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashi-for-now&label=Profile%20views&color=b8e4ff&style=plastic" alt="yashi-for-now" /> </p>
@@ -13,22 +13,19 @@
 
 - 🤝 I’m looking for help with **open source contributions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yashi-For-Now](https://github.com/Yashi-For-Now)
-
-- 📝 I regularly write articles on [https://github.com/Yashi-For-Now](https://github.com/Yashi-For-Now)
+- 👨‍💻 All of my projects are available <a href="https://github.com/Yashi-For-Now">here</a>
 
 - 💬 Talk to me about **Current Technologies in the IT sector, Novels, Songs and Musicals.**
 
 - 📫 How to reach me **s.yashashwani0.02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AnKnqDZ3Tyl4ifmnSZ0XFK_J5PPVBr88/view?usp=sharing](https://drive.google.com/file/d/1AnKnqDZ3Tyl4ifmnSZ0XFK_J5PPVBr88/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AnKnqDZ3Tyl4ifmnSZ0XFK_J5PPVBr88/view?usp=sharing">here</a>
 
 - ⚡ Fun fact **I am a fantastic singer and a creative writer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashashwani-singh-999016209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashashwani-singh-999016209/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/yashifornow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/yashifornow" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yashisiit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yashisiit1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/yashi_fornow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yashi_fornow/" height="30" width="40" /></a>
 </p>
