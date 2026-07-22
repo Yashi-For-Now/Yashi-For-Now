@@ -1,15 +1,15 @@
 <h1 align="center">Hey Beautiful Human🌻🪄, I'm Yashashwani Singh</h1>
-<h3 align="center">An enthusiastic Software Developer, with keen interest in Frontend Development and enhancing UX. I enjoy reading about and learning new technologies. Very fascinated and intrigued by the field of Data Science and always trying to explore it more.</h3>
+<h3 align="center">Currently pursuin MBA in VGSoM, IIT Kharagpur. Still love software development. I enjoy reading about and learning new technologies. Very fascinated and intrigued by the field of Data Science and always trying to explore it more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashi-for-now&label=Profile%20views&color=b8e4ff&style=plastic" alt="yashi-for-now" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashi-for-now" alt="yashi-for-now" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/Yashi-For-Now/RAG-CHATBOT">RAG-CHATBOT-WEBAPP</a>(A chatbot that answers questions from your own uploaded documents)
+- 🔭 I’m currently pursuing MBA.
 
-- 🌱 I’m currently learning **Prompt Engineering, RAG, LLMS, AI Agents, Machine Learning.**
+- 🌱 I’m currently learning **Management and Analytics.**
 
-- 👯 I’m looking to collaborate on **UX projects, or AI Based projects, basically anything. Just want to be out there.**
+- 👯 I’m looking to collaborate on **Live Projects I can work on. Just want to be out there.**
 
 - 🤝 I’m looking for help with **open source contributions.**
 
